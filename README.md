@@ -1,6 +1,6 @@
 ## React Native Course
 
-### A portoflio application I made for iOS/Android while following the React Native course by Stephen Grider
+### A portfolio application I made for iOS/Android while following the React Native course by Stephen Grider
 #### By Devon Acree-Meza
 
 ### Technologies I used 🚀:
